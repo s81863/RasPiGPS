@@ -36,7 +36,7 @@
             android:value="satellite-streets-v11"/>
         <meta-data
             android:name="MAPBOX_ACCESS_TOKEN"
-            android:value="pk.eyJ1IjoiczgxODYzIiwiYSI6ImNra2w3eTJxdzIyajkybm43MmphOTlnYm0ifQ.9k8q3yuAv-hFcXe4uI8ktQ"/>
+            android:value="****************"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
