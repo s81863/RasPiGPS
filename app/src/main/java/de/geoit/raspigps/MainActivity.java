@@ -277,7 +277,7 @@ public class MainActivity extends AppCompatActivity {
                         receivedDataLat.setText(latitude + " " + dirLat);
                         receivedDataLon.setText(longitude + " " + dirLon);
                         receivedDataAlt.setText(altitude + " m");
-                        horizontalDil.setText("Horizontal dilation: " + h_dil);
+                        horizontalDil.setText("Horizontal dilution: " + h_dil);
                         receivedDataY.setText(utmY);
                         receivedDataX.setText(utmX);
                         updateGNSSLocation(Double.valueOf(latitude), Double.valueOf(longitude));
